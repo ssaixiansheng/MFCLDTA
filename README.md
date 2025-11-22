@@ -1,4 +1,14 @@
-# MFCLDTA
+# MFCLDTA: Multi-scale feature contrastive learning for predicting drug-target binding affinity
+
+MFCLDTA is an innovative model to integrate features for drugs and targets derived from three distinct scales: sequence, molecular structure,and affinity graph. An innovative multi-scale contrastive
+learning framework captures the underlying relationships
+among these heterogeneous information sources, yielding
+enriched and robust feature representations for drug-target
+pairs.
+
+## Framework
+
+![绘图29111](https://github.com/user-attachments/assets/23a7a2f1-2778-465c-8353-11222440ac51)
 
 ## Overview of Source Codes
 

@@ -72,7 +72,7 @@ python train_test.py --dataset kiba --cuda_id 0 --num_epochs 3000 --batch_size 5
 ```
 
 ### Cold-start scenarios
-#### Setting S1
+#### Setting Drug cold-start
 - Train and test our model on the Davis dataset:
     
 ```shell
@@ -87,7 +87,7 @@ python train_test_S1.py --dataset kiba --cuda_id 0 --num_epochs 200 --batch_size
     
 
 
-#### Setting S2
+#### Setting Target cold-start
 - Train and test our model on the Davis dataset:
     
 ```shell
@@ -99,7 +99,7 @@ python train_test_S2.py --dataset davis --cuda_id 0 --num_epochs 300 --batch_siz
 ```shell
 python train_test_S2.py --dataset kiba --cuda_id 0 --num_epochs 300 --batch_size 512 --lr 0.0005 
 ```   
-#### Setting S3
+#### Setting All cold-start
 - Train and test our model on the Davis dataset:
     
 ```shell

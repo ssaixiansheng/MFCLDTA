@@ -38,7 +38,7 @@ pairs.
 
 ### Data Preparation
 
-You can download the data at https://drive.google.com/file/d/1cnAeH58PhJuNiMlLqWeIxrtaqztEYHdm/view?usp=drive_link
+We have uploaded all the dataset information required for the experiment to this link: https://drive.google.com/file/d/1cnAeH58PhJuNiMlLqWeIxrtaqztEYHdm/view?usp=drive_link
 - run data_preprocess.py: `python data_preprocess.py`
 
 ### BenchMark dataset
